@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Thomas02032001/MiniProjectBatch-21/static/css/main.d575f4eb.chunk.css",
+    "main.js": "/Thomas02032001/MiniProjectBatch-21/static/js/main.1796aa83.chunk.js",
+    "main.js.map": "/Thomas02032001/MiniProjectBatch-21/static/js/main.1796aa83.chunk.js.map",
+    "runtime-main.js": "/Thomas02032001/MiniProjectBatch-21/static/js/runtime-main.da7ca6aa.js",
+    "runtime-main.js.map": "/Thomas02032001/MiniProjectBatch-21/static/js/runtime-main.da7ca6aa.js.map",
+    "static/js/2.ff65e860.chunk.js": "/Thomas02032001/MiniProjectBatch-21/static/js/2.ff65e860.chunk.js",
+    "static/js/2.ff65e860.chunk.js.map": "/Thomas02032001/MiniProjectBatch-21/static/js/2.ff65e860.chunk.js.map",
+    "index.html": "/Thomas02032001/MiniProjectBatch-21/index.html",
+    "static/css/main.d575f4eb.chunk.css.map": "/Thomas02032001/MiniProjectBatch-21/static/css/main.d575f4eb.chunk.css.map",
+    "static/js/2.ff65e860.chunk.js.LICENSE.txt": "/Thomas02032001/MiniProjectBatch-21/static/js/2.ff65e860.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da7ca6aa.js",
+    "static/js/2.ff65e860.chunk.js",
+    "static/css/main.d575f4eb.chunk.css",
+    "static/js/main.1796aa83.chunk.js"
+  ]
+}
